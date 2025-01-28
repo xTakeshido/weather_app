@@ -27,14 +27,18 @@ This is a simple weather application built using Python and `customtkinter`. The
 
 ## Usage
 
-1. Run the [main.py](http://_vscodecontentref_/2) file to start the application:
+1. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api).
+
+2. Set the API key in [main.py](http://_vscodecontentref_/2)
+
+3. Run the [main.py](http://_vscodecontentref_/2) file to start the application:
 
     ```sh
     python main.py
     ```
 
-2. Enter the name of a city in the input field and click the "Confirm" button.
-3. The application will display the current weather information for the entered city.
+4. Enter the name of a city in the input field and click the "Confirm" button.
+5. The application will display the current weather information for the entered city.
 
 ## Files
 
