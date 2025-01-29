@@ -1,6 +1,6 @@
 import customtkinter
 import requests
-from PIL import Image, ImageTk  # Import Image and ImageTk from PIL module
+from PIL import Image, ImageTk 
 
 
 class app(customtkinter.CTk):
